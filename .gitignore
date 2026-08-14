@@ -1,0 +1,16 @@
+# ignore local class materials
+class_materials/
+
+# ignore cahce files
+__pychache__/
+*pyc
+*pyo
+
+# ignore checkpoints
+.ipynb_checkpoints/
+
+#Ignore env files
+.env
+
+# Ignore OS files
+.DS_Store
